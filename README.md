@@ -22,7 +22,8 @@ I'm a passionate tech enthusiast from India, currently exploring and growing in 
 - **Focus:** Advanced web development and practical project experience.
 
 ### 🔍 **SEO Internship**
-- **Duration:** 3 Months  
+- **Duration:** 3 Months
+ - **Company:** byte SEO solution 
 - **Focus:** Search Engine Optimization, keyword research, and website ranking techniques.
 
 ### 🔧 **Current Internship**
@@ -37,8 +38,9 @@ I'm a passionate tech enthusiast from India, currently exploring and growing in 
 - PHP, Laravel
 - MySQL, Database Design
 - HTML, CSS, JavaScript
+- c language
 - Git & GitHub
-- SEO Basics
+- SEO executive
 - VS Code
 
 ---
