@@ -1,65 +1,79 @@
 # 👋 Hi, I'm Adarsh Verma
 
-I'm a passionate tech enthusiast from India, currently exploring and growing in the world of backend development.  
+🚀 A passionate Backend Developer & Problem Solver from India  
+💡 Currently pursuing **B.Tech in Computer Science** and actively strengthening my **Data Structures & Algorithms (DSA)** skills.
+
+I believe in building strong fundamentals, solving real-world problems, and growing consistently through hands-on development.
 
 ---
 
 ## 👨‍🎓 Education
 
-- 🎓 **Diploma in Computer Science**
-- 🧠 Gained strong foundational knowledge in programming, databases, and system design.
+- 🎓 **B.Tech in Computer Science** *(Currently Pursuing)*
+- 🎓 Diploma in Computer Science  
+- 🧠 Strong foundation in programming, databases, and system design
 
 ---
 
 ## 💼 Trainings & Internships
 
-### 🧪 **1st Year Training**
+### 🧪 1st Year Training
 - **Company:** Techpile Technology Pvt. Ltd., Lucknow  
-- **Focus:** Web development basics, HTML, CSS, and beginner-level programming.
+- **Focus:** HTML, CSS, basic programming & web fundamentals  
 
-### ⚙️ **2nd Year Training**
+### ⚙️ 2nd Year Training
 - **Company:** Digi Coders Technology Pvt. Ltd., Lucknow  
-- **Focus:** Advanced web development and practical project experience.
+- **Focus:** Advanced web development & real-world projects  
 
-### 🔍 **SEO Internship**
-- **Duration:** 3 Months
- - **Company:** byte SEO solution 
-- **Focus:** Search Engine Optimization, keyword research, and website ranking techniques.
+### 🔍 SEO Internship (3 Months)
+- **Company:** Byte SEO Solution  
+- **Focus:** SEO strategies, keyword research & ranking optimization  
 
-### 🔧 **Current Internship**
+### 🔧 Current Internship
 - **Role:** Backend Developer Intern  
 - **Company:** Meta Future Service  
-- **Focus:** Server-side development, database integration, APIs, and Laravel framework.
+- **Focus:** Laravel, APIs, database integration & backend architecture  
 
 ---
 
 ## 🛠️ Skills
 
-- PHP, Laravel
-- MySQL, Database Design
-- HTML, CSS, JavaScript
-- c language
-- Git & GitHub
-- SEO executive
-- VS Code
+- 💻 **Languages:** PHP, C, JavaScript  
+- ⚙️ **Frameworks:** Laravel  
+- 🗄️ **Database:** MySQL  
+- 🌐 **Frontend:** HTML, CSS  
+- 🔧 **Tools:** Git, GitHub, VS Code  
+- 📈 **Other:** SEO, Problem Solving  
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
-- Advanced Laravel Concepts  
-- API Development  
-- Version Control (Git)  
-- Deployment Practices  
-
----
-
-## 📫 How to Reach Me
-
-- **GitHub:** [Adarshverma1432](https://github.com/Adarshverma1432)
-- **Email:** *(rajanverma30124@gmail.com)*
+- 🔥 Data Structures & Algorithms (DSA)  
+- ⚡ Advanced Laravel Concepts  
+- 🔗 API Development & Integration  
+- 🚀 Deployment & Production Practices  
+- 🧠 Writing optimized & scalable code  
 
 ---
 
-> "I believe in consistent learning, building real projects, and making a meaningful impact with code."  
+## 🎯 Goals
+
+- Become a strong **Backend Engineer**  
+- Master **DSA for problem solving & interviews**  
+- Build scalable real-world applications  
+- Contribute to open-source projects  
+
+---
+
+## 📫 Connect With Me
+
+- 💻 **GitHub:** https://github.com/Adarshverma1432  
+- 📧 **Email:** rajanverma30124@gmail.com  
+
+---
+
+## ✨ Motto
+
+> "Consistency + Practice + Real Projects = Success in Tech"  
 > — Adarsh Verma
